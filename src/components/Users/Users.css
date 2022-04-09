@@ -1,0 +1,8 @@
+.user{
+  width: 40%;
+  height: 80%;
+  border: 2px solid black;
+  display:inline-block;
+  padding:2%;
+  margin:2%;
+}
